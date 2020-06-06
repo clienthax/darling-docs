@@ -4,7 +4,7 @@ Darling contains many components built from open source Apple code, such as libd
 
 Every so often, Apple releases updated versions of these components on their [open source portal](https://opensource.apple.com/) (typically shortly after a new OS update).
 
-This section is a guide for any developers find themselves needing to update Darling's copies of Apple's open source components.
+This section is a guide for any developers that find themselves needing to update Darling's copies of Apple's open source components.
 
 ## General Steps
 
