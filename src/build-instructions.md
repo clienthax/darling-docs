@@ -143,6 +143,8 @@ Another way to speed up the build is to run `make` with multiple jobs. For this,
 
 If you run LLDB and encounter messages indicating a lack of debug symbols, make sure you are doing a debug build. To do this, use the `-DCMAKE_BUILD_TYPE=Debug`.
 
+Darling tries to stick to a standard macOS installation as much as possible. However, if you would like to build and install some additional packages (such as GNU tar), you can add `-DADDITIONAL_PACKAGES=ON`.
+
 ## Known Issues
 
 ### BackBox
